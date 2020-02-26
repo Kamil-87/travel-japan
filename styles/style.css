@@ -1,0 +1,11 @@
+@import "reset.css";
+@import "fonts.css";
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+/*# sourceMappingURL=style.css.map */
